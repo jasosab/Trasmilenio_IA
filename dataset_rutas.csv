@@ -1,0 +1,562 @@
+origen,destino,troncal_origen,troncal_destino,num_paradas,tiempo_total,num_transbordos,distancia_manhattan,mismo_troncal
+Portal Norte,Toberín,Caracas,Caracas,1,4,0,1,1
+Portal Norte,Calle 127,Caracas,Caracas,2,7,0,2,1
+Portal Norte,Calle 100,Caracas,Caracas,3,11,0,3,1
+Portal Norte,Calle 72,Caracas,Caracas,4,16,0,4,1
+Portal Norte,Calle 45,Caracas,Caracas,5,21,0,5,1
+Portal Norte,Mártires,Caracas,Caracas,6,25,0,6,1
+Portal Norte,Ricaurte,Caracas,Caracas,7,28,0,7,1
+Portal Norte,General Santander,Caracas,Caracas,8,32,0,8,1
+Portal Norte,Portal Sur,Caracas,Caracas,9,38,0,9,1
+Portal Norte,Portal Tunal,Caracas,NQS,12,57,1,10,0
+Portal Norte,Olaya,Caracas,NQS,11,52,1,9,0
+Portal Norte,Nariño,Caracas,NQS,10,48,1,8,0
+Portal Norte,Santa Lucía,Caracas,NQS,9,45,1,7,0
+Portal Norte,Pradera,Caracas,NQS,8,42,1,6,0
+Portal Norte,Restrepo,Caracas,NQS,7,39,1,6,0
+Portal Norte,NQS Calle 30,Caracas,NQS,6,35,1,6,0
+Portal Norte,NQS Calle 75,Caracas,NQS,5,28,1,5,0
+Portal Norte,NQS Calle 92,Caracas,NQS,6,32,1,4,0
+Portal Norte,Portal El Dorado,Caracas,NQS,7,45,2,7,0
+Portal Norte,Portal 80,Caracas,Calle80,9,49,2,7,0
+Portal Norte,Minuto de Dios,Caracas,Calle80,7,42,2,6,0
+Portal Norte,Granja-Carrera 77,Caracas,Calle80,6,38,2,5,0
+Portal Norte,Carrera 90,Caracas,Calle80,8,46,2,7,0
+Portal Norte,Portal Suba,Caracas,Suba,6,31,1,3,0
+Portal Norte,Suba-Calle 95,Caracas,Suba,5,26,1,3,0
+Portal Norte,Niza-Calle 127,Caracas,Suba,4,22,1,4,0
+Portal Norte,Shaio,Caracas,Suba,5,25,1,4,0
+Portal Norte,Puentelargo,Caracas,Suba,4,21,1,3,0
+Portal Norte,Portal Américas,Caracas,Americas,9,45,1,10,0
+Portal Norte,Banderas,Caracas,Americas,8,40,1,9,0
+Portal Norte,Marsella,Caracas,Americas,7,36,1,8,0
+Portal Norte,Av. Jiménez,Caracas,Americas,7,33,1,6,0
+Portal Norte,Biblioteca Tintal,Caracas,Americas,9,44,1,9,0
+Toberín,Calle 127,Caracas,Caracas,1,3,0,1,1
+Toberín,Calle 100,Caracas,Caracas,2,7,0,2,1
+Toberín,Calle 72,Caracas,Caracas,3,12,0,3,1
+Toberín,Calle 45,Caracas,Caracas,4,17,0,4,1
+Toberín,Mártires,Caracas,Caracas,5,21,0,5,1
+Toberín,Ricaurte,Caracas,Caracas,6,24,0,6,1
+Toberín,General Santander,Caracas,Caracas,7,28,0,7,1
+Toberín,Portal Sur,Caracas,Caracas,8,34,0,8,1
+Toberín,Portal Tunal,Caracas,NQS,11,53,1,9,0
+Toberín,Olaya,Caracas,NQS,10,48,1,8,0
+Toberín,Nariño,Caracas,NQS,9,44,1,7,0
+Toberín,Santa Lucía,Caracas,NQS,8,41,1,6,0
+Toberín,Pradera,Caracas,NQS,7,38,1,5,0
+Toberín,Restrepo,Caracas,NQS,6,35,1,5,0
+Toberín,NQS Calle 30,Caracas,NQS,5,31,1,5,0
+Toberín,NQS Calle 75,Caracas,NQS,4,24,1,4,0
+Toberín,NQS Calle 92,Caracas,NQS,5,28,1,3,0
+Toberín,Portal El Dorado,Caracas,NQS,6,41,2,6,0
+Toberín,Portal 80,Caracas,Calle80,8,45,2,6,0
+Toberín,Minuto de Dios,Caracas,Calle80,6,38,2,5,0
+Toberín,Granja-Carrera 77,Caracas,Calle80,5,34,2,4,0
+Toberín,Carrera 90,Caracas,Calle80,7,42,2,6,0
+Toberín,Portal Suba,Caracas,Suba,5,27,1,4,0
+Toberín,Suba-Calle 95,Caracas,Suba,4,22,1,2,0
+Toberín,Niza-Calle 127,Caracas,Suba,3,18,1,3,0
+Toberín,Shaio,Caracas,Suba,4,21,1,3,0
+Toberín,Puentelargo,Caracas,Suba,3,17,1,2,0
+Toberín,Portal Américas,Caracas,Americas,8,41,1,9,0
+Toberín,Banderas,Caracas,Americas,7,36,1,8,0
+Toberín,Marsella,Caracas,Americas,6,32,1,7,0
+Toberín,Av. Jiménez,Caracas,Americas,6,29,1,5,0
+Toberín,Biblioteca Tintal,Caracas,Americas,8,40,1,8,0
+Calle 127,Calle 100,Caracas,Caracas,1,4,0,1,1
+Calle 127,Calle 72,Caracas,Caracas,2,9,0,2,1
+Calle 127,Calle 45,Caracas,Caracas,3,14,0,3,1
+Calle 127,Mártires,Caracas,Caracas,4,18,0,4,1
+Calle 127,Ricaurte,Caracas,Caracas,5,21,0,5,1
+Calle 127,General Santander,Caracas,Caracas,6,25,0,6,1
+Calle 127,Portal Sur,Caracas,Caracas,7,31,0,7,1
+Calle 127,Portal Tunal,Caracas,NQS,10,50,1,8,0
+Calle 127,Olaya,Caracas,NQS,9,45,1,7,0
+Calle 127,Nariño,Caracas,NQS,8,41,1,6,0
+Calle 127,Santa Lucía,Caracas,NQS,7,38,1,5,0
+Calle 127,Pradera,Caracas,NQS,6,35,1,4,0
+Calle 127,Restrepo,Caracas,NQS,5,32,1,4,0
+Calle 127,NQS Calle 30,Caracas,NQS,4,28,1,4,0
+Calle 127,NQS Calle 75,Caracas,NQS,3,21,1,3,0
+Calle 127,NQS Calle 92,Caracas,NQS,4,25,1,2,0
+Calle 127,Portal El Dorado,Caracas,NQS,5,38,2,5,0
+Calle 127,Portal 80,Caracas,Calle80,7,42,2,5,0
+Calle 127,Minuto de Dios,Caracas,Calle80,5,35,2,4,0
+Calle 127,Granja-Carrera 77,Caracas,Calle80,4,31,2,3,0
+Calle 127,Carrera 90,Caracas,Calle80,6,39,2,5,0
+Calle 127,Portal Suba,Caracas,Suba,4,24,1,5,0
+Calle 127,Suba-Calle 95,Caracas,Suba,3,19,1,3,0
+Calle 127,Niza-Calle 127,Caracas,Suba,2,15,1,2,0
+Calle 127,Shaio,Caracas,Suba,3,18,1,2,0
+Calle 127,Puentelargo,Caracas,Suba,2,14,1,1,0
+Calle 127,Portal Américas,Caracas,Americas,7,38,1,8,0
+Calle 127,Banderas,Caracas,Americas,6,33,1,7,0
+Calle 127,Marsella,Caracas,Americas,5,29,1,6,0
+Calle 127,Av. Jiménez,Caracas,Americas,5,26,1,4,0
+Calle 127,Biblioteca Tintal,Caracas,Americas,7,37,1,7,0
+Calle 100,Calle 72,Caracas,Caracas,1,5,0,1,1
+Calle 100,Calle 45,Caracas,Caracas,2,10,0,2,1
+Calle 100,Mártires,Caracas,Caracas,3,14,0,3,1
+Calle 100,Ricaurte,Caracas,Caracas,4,17,0,4,1
+Calle 100,General Santander,Caracas,Caracas,5,21,0,5,1
+Calle 100,Portal Sur,Caracas,Caracas,6,27,0,6,1
+Calle 100,Portal Tunal,Caracas,NQS,9,46,1,7,0
+Calle 100,Olaya,Caracas,NQS,8,41,1,6,0
+Calle 100,Nariño,Caracas,NQS,7,37,1,5,0
+Calle 100,Santa Lucía,Caracas,NQS,6,34,1,4,0
+Calle 100,Pradera,Caracas,NQS,5,31,1,3,0
+Calle 100,Restrepo,Caracas,NQS,4,28,1,3,0
+Calle 100,NQS Calle 30,Caracas,NQS,3,24,1,3,0
+Calle 100,NQS Calle 75,Caracas,NQS,2,17,1,2,0
+Calle 100,NQS Calle 92,Caracas,NQS,3,21,1,1,0
+Calle 100,Portal El Dorado,Caracas,NQS,4,34,2,4,0
+Calle 100,Portal 80,Caracas,Calle80,6,38,2,4,0
+Calle 100,Minuto de Dios,Caracas,Calle80,4,31,2,3,0
+Calle 100,Granja-Carrera 77,Caracas,Calle80,3,27,2,2,0
+Calle 100,Carrera 90,Caracas,Calle80,5,35,2,4,0
+Calle 100,Portal Suba,Caracas,Suba,3,20,1,6,0
+Calle 100,Suba-Calle 95,Caracas,Suba,2,15,1,4,0
+Calle 100,Niza-Calle 127,Caracas,Suba,1,11,1,3,0
+Calle 100,Shaio,Caracas,Suba,2,14,1,3,0
+Calle 100,Puentelargo,Caracas,Suba,1,10,1,2,0
+Calle 100,Portal Américas,Caracas,Americas,6,34,1,7,0
+Calle 100,Banderas,Caracas,Americas,5,29,1,6,0
+Calle 100,Marsella,Caracas,Americas,4,25,1,5,0
+Calle 100,Av. Jiménez,Caracas,Americas,4,22,1,3,0
+Calle 100,Biblioteca Tintal,Caracas,Americas,6,33,1,6,0
+Calle 72,Calle 45,Caracas,Caracas,1,5,0,1,1
+Calle 72,Mártires,Caracas,Caracas,2,9,0,2,1
+Calle 72,Ricaurte,Caracas,Caracas,3,12,0,3,1
+Calle 72,General Santander,Caracas,Caracas,4,16,0,4,1
+Calle 72,Portal Sur,Caracas,Caracas,5,22,0,5,1
+Calle 72,Portal Tunal,Caracas,NQS,8,41,1,6,0
+Calle 72,Olaya,Caracas,NQS,7,36,1,5,0
+Calle 72,Nariño,Caracas,NQS,6,32,1,4,0
+Calle 72,Santa Lucía,Caracas,NQS,5,29,1,3,0
+Calle 72,Pradera,Caracas,NQS,4,26,1,2,0
+Calle 72,Restrepo,Caracas,NQS,3,23,1,2,0
+Calle 72,NQS Calle 30,Caracas,NQS,2,19,1,2,0
+Calle 72,NQS Calle 75,Caracas,NQS,1,12,1,1,0
+Calle 72,NQS Calle 92,Caracas,NQS,2,16,1,2,0
+Calle 72,Portal El Dorado,Caracas,NQS,3,29,2,3,0
+Calle 72,Portal 80,Caracas,Calle80,5,33,2,3,0
+Calle 72,Minuto de Dios,Caracas,Calle80,3,26,2,2,0
+Calle 72,Granja-Carrera 77,Caracas,Calle80,2,22,2,1,0
+Calle 72,Carrera 90,Caracas,Calle80,4,30,2,3,0
+Calle 72,Portal Suba,Caracas,Suba,4,25,1,7,0
+Calle 72,Suba-Calle 95,Caracas,Suba,3,20,1,5,0
+Calle 72,Niza-Calle 127,Caracas,Suba,2,16,1,4,0
+Calle 72,Shaio,Caracas,Suba,3,19,1,4,0
+Calle 72,Puentelargo,Caracas,Suba,2,15,1,3,0
+Calle 72,Portal Américas,Caracas,Americas,5,29,1,6,0
+Calle 72,Banderas,Caracas,Americas,4,24,1,5,0
+Calle 72,Marsella,Caracas,Americas,3,20,1,4,0
+Calle 72,Av. Jiménez,Caracas,Americas,3,17,1,2,0
+Calle 72,Biblioteca Tintal,Caracas,Americas,5,28,1,5,0
+Calle 45,Mártires,Caracas,Caracas,1,4,0,1,1
+Calle 45,Ricaurte,Caracas,Caracas,2,7,0,2,1
+Calle 45,General Santander,Caracas,Caracas,3,11,0,3,1
+Calle 45,Portal Sur,Caracas,Caracas,4,17,0,4,1
+Calle 45,Portal Tunal,Caracas,NQS,9,46,1,5,0
+Calle 45,Olaya,Caracas,NQS,8,41,1,4,0
+Calle 45,Nariño,Caracas,NQS,7,37,1,3,0
+Calle 45,Santa Lucía,Caracas,NQS,6,34,1,2,0
+Calle 45,Pradera,Caracas,NQS,5,31,1,1,0
+Calle 45,Restrepo,Caracas,NQS,4,28,1,1,0
+Calle 45,NQS Calle 30,Caracas,NQS,3,24,1,1,0
+Calle 45,NQS Calle 75,Caracas,NQS,2,17,1,2,0
+Calle 45,NQS Calle 92,Caracas,NQS,3,21,1,3,0
+Calle 45,Portal El Dorado,Caracas,NQS,3,26,2,2,0
+Calle 45,Portal 80,Caracas,Calle80,6,38,2,4,0
+Calle 45,Minuto de Dios,Caracas,Calle80,4,31,2,3,0
+Calle 45,Granja-Carrera 77,Caracas,Calle80,3,27,2,2,0
+Calle 45,Carrera 90,Caracas,Calle80,5,35,2,4,0
+Calle 45,Portal Suba,Caracas,Suba,5,30,1,8,0
+Calle 45,Suba-Calle 95,Caracas,Suba,4,25,1,6,0
+Calle 45,Niza-Calle 127,Caracas,Suba,3,21,1,5,0
+Calle 45,Shaio,Caracas,Suba,4,24,1,5,0
+Calle 45,Puentelargo,Caracas,Suba,3,20,1,4,0
+Calle 45,Portal Américas,Caracas,Americas,4,24,1,5,0
+Calle 45,Banderas,Caracas,Americas,3,19,1,4,0
+Calle 45,Marsella,Caracas,Americas,2,15,1,3,0
+Calle 45,Av. Jiménez,Caracas,Americas,2,12,1,1,0
+Calle 45,Biblioteca Tintal,Caracas,Americas,4,23,1,4,0
+Mártires,Ricaurte,Caracas,Caracas,1,3,0,1,1
+Mártires,General Santander,Caracas,Caracas,2,7,0,2,1
+Mártires,Portal Sur,Caracas,Caracas,3,13,0,3,1
+Mártires,Portal Tunal,Caracas,NQS,9,54,3,4,0
+Mártires,Olaya,Caracas,NQS,8,49,3,3,0
+Mártires,Nariño,Caracas,NQS,7,45,3,2,0
+Mártires,Santa Lucía,Caracas,NQS,6,42,3,1,0
+Mártires,Pradera,Caracas,NQS,5,39,3,2,0
+Mártires,Restrepo,Caracas,NQS,4,36,3,2,0
+Mártires,NQS Calle 30,Caracas,NQS,3,32,3,2,0
+Mártires,NQS Calle 75,Caracas,NQS,3,21,1,3,0
+Mártires,NQS Calle 92,Caracas,NQS,4,25,1,4,0
+Mártires,Portal El Dorado,Caracas,NQS,2,22,2,3,0
+Mártires,Portal 80,Caracas,Calle80,7,42,2,5,0
+Mártires,Minuto de Dios,Caracas,Calle80,5,35,2,4,0
+Mártires,Granja-Carrera 77,Caracas,Calle80,4,31,2,3,0
+Mártires,Carrera 90,Caracas,Calle80,6,39,2,5,0
+Mártires,Portal Suba,Caracas,Suba,6,34,1,9,0
+Mártires,Suba-Calle 95,Caracas,Suba,5,29,1,7,0
+Mártires,Niza-Calle 127,Caracas,Suba,4,25,1,6,0
+Mártires,Shaio,Caracas,Suba,5,28,1,6,0
+Mártires,Puentelargo,Caracas,Suba,4,24,1,5,0
+Mártires,Portal Américas,Caracas,Americas,3,20,1,4,0
+Mártires,Banderas,Caracas,Americas,2,15,1,3,0
+Mártires,Marsella,Caracas,Americas,1,11,1,2,0
+Mártires,Av. Jiménez,Caracas,Americas,1,8,1,0,0
+Mártires,Biblioteca Tintal,Caracas,Americas,3,19,1,3,0
+Ricaurte,General Santander,Caracas,Caracas,1,4,0,1,1
+Ricaurte,Portal Sur,Caracas,Caracas,2,10,0,2,1
+Ricaurte,Portal Tunal,Caracas,NQS,9,56,3,3,0
+Ricaurte,Olaya,Caracas,NQS,8,51,3,2,0
+Ricaurte,Nariño,Caracas,NQS,7,47,3,1,0
+Ricaurte,Santa Lucía,Caracas,NQS,6,44,3,2,0
+Ricaurte,Pradera,Caracas,NQS,5,41,3,3,0
+Ricaurte,Restrepo,Caracas,NQS,4,38,3,3,0
+Ricaurte,NQS Calle 30,Caracas,NQS,3,34,3,3,0
+Ricaurte,NQS Calle 75,Caracas,NQS,4,24,1,4,0
+Ricaurte,NQS Calle 92,Caracas,NQS,5,28,1,5,0
+Ricaurte,Portal El Dorado,Caracas,NQS,2,24,2,4,0
+Ricaurte,Portal 80,Caracas,Calle80,8,45,2,6,0
+Ricaurte,Minuto de Dios,Caracas,Calle80,6,38,2,5,0
+Ricaurte,Granja-Carrera 77,Caracas,Calle80,5,34,2,4,0
+Ricaurte,Carrera 90,Caracas,Calle80,7,42,2,6,0
+Ricaurte,Portal Suba,Caracas,Suba,7,37,1,10,0
+Ricaurte,Suba-Calle 95,Caracas,Suba,6,32,1,8,0
+Ricaurte,Niza-Calle 127,Caracas,Suba,5,28,1,7,0
+Ricaurte,Shaio,Caracas,Suba,6,31,1,7,0
+Ricaurte,Puentelargo,Caracas,Suba,5,27,1,6,0
+Ricaurte,Portal Américas,Caracas,Americas,3,22,1,3,0
+Ricaurte,Banderas,Caracas,Americas,2,17,1,2,0
+Ricaurte,Marsella,Caracas,Americas,1,13,1,1,0
+Ricaurte,Av. Jiménez,Caracas,Americas,2,11,1,1,0
+Ricaurte,Biblioteca Tintal,Caracas,Americas,3,21,1,4,0
+General Santander,Portal Sur,Caracas,Caracas,1,6,0,1,1
+General Santander,Portal Tunal,Caracas,NQS,10,60,3,2,0
+General Santander,Olaya,Caracas,NQS,9,55,3,1,0
+General Santander,Nariño,Caracas,NQS,8,51,3,2,0
+General Santander,Santa Lucía,Caracas,NQS,7,48,3,3,0
+General Santander,Pradera,Caracas,NQS,6,45,3,4,0
+General Santander,Restrepo,Caracas,NQS,5,42,3,4,0
+General Santander,NQS Calle 30,Caracas,NQS,4,38,3,4,0
+General Santander,NQS Calle 75,Caracas,NQS,5,28,1,5,0
+General Santander,NQS Calle 92,Caracas,NQS,6,32,1,6,0
+General Santander,Portal El Dorado,Caracas,NQS,3,28,2,5,0
+General Santander,Portal 80,Caracas,Calle80,9,49,2,7,0
+General Santander,Minuto de Dios,Caracas,Calle80,7,42,2,6,0
+General Santander,Granja-Carrera 77,Caracas,Calle80,6,38,2,5,0
+General Santander,Carrera 90,Caracas,Calle80,8,46,2,7,0
+General Santander,Portal Suba,Caracas,Suba,8,41,1,11,0
+General Santander,Suba-Calle 95,Caracas,Suba,7,36,1,9,0
+General Santander,Niza-Calle 127,Caracas,Suba,6,32,1,8,0
+General Santander,Shaio,Caracas,Suba,7,35,1,8,0
+General Santander,Puentelargo,Caracas,Suba,6,31,1,7,0
+General Santander,Portal Américas,Caracas,Americas,4,26,1,4,0
+General Santander,Banderas,Caracas,Americas,3,21,1,3,0
+General Santander,Marsella,Caracas,Americas,2,17,1,2,0
+General Santander,Av. Jiménez,Caracas,Americas,3,15,1,2,0
+General Santander,Biblioteca Tintal,Caracas,Americas,4,25,1,5,0
+Portal Sur,Portal Tunal,Caracas,NQS,11,66,3,1,0
+Portal Sur,Olaya,Caracas,NQS,10,61,3,2,0
+Portal Sur,Nariño,Caracas,NQS,9,57,3,3,0
+Portal Sur,Santa Lucía,Caracas,NQS,8,54,3,4,0
+Portal Sur,Pradera,Caracas,NQS,7,51,3,5,0
+Portal Sur,Restrepo,Caracas,NQS,6,48,3,5,0
+Portal Sur,NQS Calle 30,Caracas,NQS,5,44,3,5,0
+Portal Sur,NQS Calle 75,Caracas,NQS,6,34,1,6,0
+Portal Sur,NQS Calle 92,Caracas,NQS,7,38,1,7,0
+Portal Sur,Portal El Dorado,Caracas,NQS,4,34,2,6,0
+Portal Sur,Portal 80,Caracas,Calle80,10,55,2,8,0
+Portal Sur,Minuto de Dios,Caracas,Calle80,8,48,2,7,0
+Portal Sur,Granja-Carrera 77,Caracas,Calle80,7,44,2,6,0
+Portal Sur,Carrera 90,Caracas,Calle80,9,52,2,8,0
+Portal Sur,Portal Suba,Caracas,Suba,9,47,1,12,0
+Portal Sur,Suba-Calle 95,Caracas,Suba,8,42,1,10,0
+Portal Sur,Niza-Calle 127,Caracas,Suba,7,38,1,9,0
+Portal Sur,Shaio,Caracas,Suba,8,41,1,9,0
+Portal Sur,Puentelargo,Caracas,Suba,7,37,1,8,0
+Portal Sur,Portal Américas,Caracas,Americas,5,32,1,5,0
+Portal Sur,Banderas,Caracas,Americas,4,27,1,4,0
+Portal Sur,Marsella,Caracas,Americas,3,23,1,3,0
+Portal Sur,Av. Jiménez,Caracas,Americas,4,21,1,3,0
+Portal Sur,Biblioteca Tintal,Caracas,Americas,5,31,1,6,0
+Portal Tunal,Olaya,NQS,NQS,1,5,0,1,1
+Portal Tunal,Nariño,NQS,NQS,2,9,0,2,1
+Portal Tunal,Santa Lucía,NQS,NQS,3,12,0,3,1
+Portal Tunal,Pradera,NQS,NQS,4,15,0,4,1
+Portal Tunal,Restrepo,NQS,NQS,5,18,0,4,1
+Portal Tunal,NQS Calle 30,NQS,NQS,6,22,0,4,1
+Portal Tunal,NQS Calle 75,NQS,NQS,7,29,0,5,1
+Portal Tunal,NQS Calle 92,NQS,NQS,8,33,0,6,1
+Portal Tunal,Portal El Dorado,NQS,NQS,7,32,1,5,1
+Portal Tunal,Portal 80,NQS,Calle80,11,50,1,7,0
+Portal Tunal,Minuto de Dios,NQS,Calle80,9,43,1,6,0
+Portal Tunal,Granja-Carrera 77,NQS,Calle80,8,39,1,5,0
+Portal Tunal,Carrera 90,NQS,Calle80,10,47,1,7,0
+Portal Tunal,Portal Suba,NQS,Suba,12,66,2,11,0
+Portal Tunal,Suba-Calle 95,NQS,Suba,11,61,2,9,0
+Portal Tunal,Niza-Calle 127,NQS,Suba,10,57,2,8,0
+Portal Tunal,Shaio,NQS,Suba,11,60,2,8,0
+Portal Tunal,Puentelargo,NQS,Suba,10,56,2,7,0
+Portal Tunal,Portal Américas,NQS,Americas,10,52,2,4,0
+Portal Tunal,Banderas,NQS,Americas,9,47,2,3,0
+Portal Tunal,Marsella,NQS,Americas,8,43,2,2,0
+Portal Tunal,Av. Jiménez,NQS,Americas,10,62,4,4,0
+Portal Tunal,Biblioteca Tintal,NQS,Americas,10,51,2,5,0
+Olaya,Nariño,NQS,NQS,1,4,0,1,1
+Olaya,Santa Lucía,NQS,NQS,2,7,0,2,1
+Olaya,Pradera,NQS,NQS,3,10,0,3,1
+Olaya,Restrepo,NQS,NQS,4,13,0,3,1
+Olaya,NQS Calle 30,NQS,NQS,5,17,0,3,1
+Olaya,NQS Calle 75,NQS,NQS,6,24,0,4,1
+Olaya,NQS Calle 92,NQS,NQS,7,28,0,5,1
+Olaya,Portal El Dorado,NQS,NQS,6,27,1,4,1
+Olaya,Portal 80,NQS,Calle80,10,45,1,6,0
+Olaya,Minuto de Dios,NQS,Calle80,8,38,1,5,0
+Olaya,Granja-Carrera 77,NQS,Calle80,7,34,1,4,0
+Olaya,Carrera 90,NQS,Calle80,9,42,1,6,0
+Olaya,Portal Suba,NQS,Suba,11,61,2,10,0
+Olaya,Suba-Calle 95,NQS,Suba,10,56,2,8,0
+Olaya,Niza-Calle 127,NQS,Suba,9,52,2,7,0
+Olaya,Shaio,NQS,Suba,10,55,2,7,0
+Olaya,Puentelargo,NQS,Suba,9,51,2,6,0
+Olaya,Portal Américas,NQS,Americas,9,47,2,3,0
+Olaya,Banderas,NQS,Americas,8,42,2,2,0
+Olaya,Marsella,NQS,Americas,7,38,2,1,0
+Olaya,Av. Jiménez,NQS,Americas,9,57,4,3,0
+Olaya,Biblioteca Tintal,NQS,Americas,9,46,2,4,0
+Nariño,Santa Lucía,NQS,NQS,1,3,0,1,1
+Nariño,Pradera,NQS,NQS,2,6,0,2,1
+Nariño,Restrepo,NQS,NQS,3,9,0,2,1
+Nariño,NQS Calle 30,NQS,NQS,4,13,0,2,1
+Nariño,NQS Calle 75,NQS,NQS,5,20,0,3,1
+Nariño,NQS Calle 92,NQS,NQS,6,24,0,4,1
+Nariño,Portal El Dorado,NQS,NQS,5,23,1,3,1
+Nariño,Portal 80,NQS,Calle80,9,41,1,5,0
+Nariño,Minuto de Dios,NQS,Calle80,7,34,1,4,0
+Nariño,Granja-Carrera 77,NQS,Calle80,6,30,1,3,0
+Nariño,Carrera 90,NQS,Calle80,8,38,1,5,0
+Nariño,Portal Suba,NQS,Suba,10,57,2,9,0
+Nariño,Suba-Calle 95,NQS,Suba,9,52,2,7,0
+Nariño,Niza-Calle 127,NQS,Suba,8,48,2,6,0
+Nariño,Shaio,NQS,Suba,9,51,2,6,0
+Nariño,Puentelargo,NQS,Suba,8,47,2,5,0
+Nariño,Portal Américas,NQS,Americas,8,43,2,2,0
+Nariño,Banderas,NQS,Americas,7,38,2,1,0
+Nariño,Marsella,NQS,Americas,6,34,2,0,0
+Nariño,Av. Jiménez,NQS,Americas,8,53,4,2,0
+Nariño,Biblioteca Tintal,NQS,Americas,8,42,2,3,0
+Santa Lucía,Pradera,NQS,NQS,1,3,0,1,1
+Santa Lucía,Restrepo,NQS,NQS,2,6,0,1,1
+Santa Lucía,NQS Calle 30,NQS,NQS,3,10,0,1,1
+Santa Lucía,NQS Calle 75,NQS,NQS,4,17,0,2,1
+Santa Lucía,NQS Calle 92,NQS,NQS,5,21,0,3,1
+Santa Lucía,Portal El Dorado,NQS,NQS,4,20,1,2,1
+Santa Lucía,Portal 80,NQS,Calle80,8,38,1,4,0
+Santa Lucía,Minuto de Dios,NQS,Calle80,6,31,1,3,0
+Santa Lucía,Granja-Carrera 77,NQS,Calle80,5,27,1,2,0
+Santa Lucía,Carrera 90,NQS,Calle80,7,35,1,4,0
+Santa Lucía,Portal Suba,NQS,Suba,9,54,2,8,0
+Santa Lucía,Suba-Calle 95,NQS,Suba,8,49,2,6,0
+Santa Lucía,Niza-Calle 127,NQS,Suba,7,45,2,5,0
+Santa Lucía,Shaio,NQS,Suba,8,48,2,5,0
+Santa Lucía,Puentelargo,NQS,Suba,7,44,2,4,0
+Santa Lucía,Portal Américas,NQS,Americas,7,40,2,3,0
+Santa Lucía,Banderas,NQS,Americas,6,35,2,2,0
+Santa Lucía,Marsella,NQS,Americas,5,31,2,1,0
+Santa Lucía,Av. Jiménez,NQS,Americas,7,50,4,1,0
+Santa Lucía,Biblioteca Tintal,NQS,Americas,7,39,2,2,0
+Pradera,Restrepo,NQS,NQS,1,3,0,0,1
+Pradera,NQS Calle 30,NQS,NQS,2,7,0,0,1
+Pradera,NQS Calle 75,NQS,NQS,3,14,0,1,1
+Pradera,NQS Calle 92,NQS,NQS,4,18,0,2,1
+Pradera,Portal El Dorado,NQS,NQS,3,17,1,1,1
+Pradera,Portal 80,NQS,Calle80,7,35,1,3,0
+Pradera,Minuto de Dios,NQS,Calle80,5,28,1,2,0
+Pradera,Granja-Carrera 77,NQS,Calle80,4,24,1,1,0
+Pradera,Carrera 90,NQS,Calle80,6,32,1,3,0
+Pradera,Portal Suba,NQS,Suba,8,51,2,7,0
+Pradera,Suba-Calle 95,NQS,Suba,7,46,2,5,0
+Pradera,Niza-Calle 127,NQS,Suba,6,42,2,4,0
+Pradera,Shaio,NQS,Suba,7,45,2,4,0
+Pradera,Puentelargo,NQS,Suba,6,41,2,3,0
+Pradera,Portal Américas,NQS,Americas,6,37,2,4,0
+Pradera,Banderas,NQS,Americas,5,32,2,3,0
+Pradera,Marsella,NQS,Americas,4,28,2,2,0
+Pradera,Av. Jiménez,NQS,Americas,6,47,4,2,0
+Pradera,Biblioteca Tintal,NQS,Americas,6,36,2,3,0
+Restrepo,NQS Calle 30,NQS,NQS,1,4,0,0,1
+Restrepo,NQS Calle 75,NQS,NQS,2,11,0,1,1
+Restrepo,NQS Calle 92,NQS,NQS,3,15,0,2,1
+Restrepo,Portal El Dorado,NQS,NQS,2,14,1,1,1
+Restrepo,Portal 80,NQS,Calle80,6,32,1,3,0
+Restrepo,Minuto de Dios,NQS,Calle80,4,25,1,2,0
+Restrepo,Granja-Carrera 77,NQS,Calle80,3,21,1,1,0
+Restrepo,Carrera 90,NQS,Calle80,5,29,1,3,0
+Restrepo,Portal Suba,NQS,Suba,7,48,2,7,0
+Restrepo,Suba-Calle 95,NQS,Suba,6,43,2,5,0
+Restrepo,Niza-Calle 127,NQS,Suba,5,39,2,4,0
+Restrepo,Shaio,NQS,Suba,6,42,2,4,0
+Restrepo,Puentelargo,NQS,Suba,5,38,2,3,0
+Restrepo,Portal Américas,NQS,Americas,5,34,2,4,0
+Restrepo,Banderas,NQS,Americas,4,29,2,3,0
+Restrepo,Marsella,NQS,Americas,3,25,2,2,0
+Restrepo,Av. Jiménez,NQS,Americas,5,44,4,2,0
+Restrepo,Biblioteca Tintal,NQS,Americas,5,33,2,3,0
+NQS Calle 30,NQS Calle 75,NQS,NQS,1,7,0,1,1
+NQS Calle 30,NQS Calle 92,NQS,NQS,2,11,0,2,1
+NQS Calle 30,Portal El Dorado,NQS,NQS,1,10,1,1,1
+NQS Calle 30,Portal 80,NQS,Calle80,5,28,1,3,0
+NQS Calle 30,Minuto de Dios,NQS,Calle80,3,21,1,2,0
+NQS Calle 30,Granja-Carrera 77,NQS,Calle80,2,17,1,1,0
+NQS Calle 30,Carrera 90,NQS,Calle80,4,25,1,3,0
+NQS Calle 30,Portal Suba,NQS,Suba,6,44,2,7,0
+NQS Calle 30,Suba-Calle 95,NQS,Suba,5,39,2,5,0
+NQS Calle 30,Niza-Calle 127,NQS,Suba,4,35,2,4,0
+NQS Calle 30,Shaio,NQS,Suba,5,38,2,4,0
+NQS Calle 30,Puentelargo,NQS,Suba,4,34,2,3,0
+NQS Calle 30,Portal Américas,NQS,Americas,4,30,2,4,0
+NQS Calle 30,Banderas,NQS,Americas,3,25,2,3,0
+NQS Calle 30,Marsella,NQS,Americas,2,21,2,2,0
+NQS Calle 30,Av. Jiménez,NQS,Americas,4,40,4,2,0
+NQS Calle 30,Biblioteca Tintal,NQS,Americas,4,29,2,3,0
+NQS Calle 75,NQS Calle 92,NQS,NQS,1,4,0,1,1
+NQS Calle 75,Portal El Dorado,NQS,NQS,2,17,1,2,1
+NQS Calle 75,Portal 80,NQS,Calle80,4,21,1,2,0
+NQS Calle 75,Minuto de Dios,NQS,Calle80,2,14,1,1,0
+NQS Calle 75,Granja-Carrera 77,NQS,Calle80,1,10,1,0,0
+NQS Calle 75,Carrera 90,NQS,Calle80,3,18,1,2,0
+NQS Calle 75,Portal Suba,NQS,Suba,5,37,2,6,0
+NQS Calle 75,Suba-Calle 95,NQS,Suba,4,32,2,4,0
+NQS Calle 75,Niza-Calle 127,NQS,Suba,3,28,2,3,0
+NQS Calle 75,Shaio,NQS,Suba,4,31,2,3,0
+NQS Calle 75,Puentelargo,NQS,Suba,3,27,2,2,0
+NQS Calle 75,Portal Américas,NQS,Americas,5,37,2,5,0
+NQS Calle 75,Banderas,NQS,Americas,4,32,2,4,0
+NQS Calle 75,Marsella,NQS,Americas,3,28,2,3,0
+NQS Calle 75,Av. Jiménez,NQS,Americas,4,29,2,3,0
+NQS Calle 75,Biblioteca Tintal,NQS,Americas,5,36,2,4,0
+NQS Calle 92,Portal El Dorado,NQS,NQS,3,21,1,3,1
+NQS Calle 92,Portal 80,NQS,Calle80,5,25,1,3,0
+NQS Calle 92,Minuto de Dios,NQS,Calle80,3,18,1,2,0
+NQS Calle 92,Granja-Carrera 77,NQS,Calle80,2,14,1,1,0
+NQS Calle 92,Carrera 90,NQS,Calle80,4,22,1,3,0
+NQS Calle 92,Portal Suba,NQS,Suba,6,41,2,5,0
+NQS Calle 92,Suba-Calle 95,NQS,Suba,5,36,2,3,0
+NQS Calle 92,Niza-Calle 127,NQS,Suba,4,32,2,2,0
+NQS Calle 92,Shaio,NQS,Suba,5,35,2,2,0
+NQS Calle 92,Puentelargo,NQS,Suba,4,31,2,1,0
+NQS Calle 92,Portal Américas,NQS,Americas,6,41,2,6,0
+NQS Calle 92,Banderas,NQS,Americas,5,36,2,5,0
+NQS Calle 92,Marsella,NQS,Americas,4,32,2,4,0
+NQS Calle 92,Av. Jiménez,NQS,Americas,5,33,2,4,0
+NQS Calle 92,Biblioteca Tintal,NQS,Americas,6,40,2,5,0
+Portal El Dorado,Portal 80,NQS,Calle80,6,38,2,2,0
+Portal El Dorado,Minuto de Dios,NQS,Calle80,4,31,2,1,0
+Portal El Dorado,Granja-Carrera 77,NQS,Calle80,3,27,2,2,0
+Portal El Dorado,Carrera 90,NQS,Calle80,5,35,2,2,0
+Portal El Dorado,Portal Suba,NQS,Suba,7,54,3,6,0
+Portal El Dorado,Suba-Calle 95,NQS,Suba,6,49,3,4,0
+Portal El Dorado,Niza-Calle 127,NQS,Suba,5,45,3,3,0
+Portal El Dorado,Shaio,NQS,Suba,6,48,3,3,0
+Portal El Dorado,Puentelargo,NQS,Suba,5,44,3,4,0
+Portal El Dorado,Portal Américas,NQS,Americas,3,20,1,3,0
+Portal El Dorado,Banderas,NQS,Americas,2,15,1,2,0
+Portal El Dorado,Marsella,NQS,Americas,1,11,1,3,0
+Portal El Dorado,Av. Jiménez,NQS,Americas,3,30,3,3,0
+Portal El Dorado,Biblioteca Tintal,NQS,Americas,3,19,1,2,0
+Portal 80,Minuto de Dios,Calle80,Calle80,2,7,0,1,1
+Portal 80,Granja-Carrera 77,Calle80,Calle80,3,11,0,2,1
+Portal 80,Carrera 90,Calle80,Calle80,1,3,0,0,1
+Portal 80,Portal Suba,Calle80,Suba,9,58,3,4,0
+Portal 80,Suba-Calle 95,Calle80,Suba,8,53,3,4,0
+Portal 80,Niza-Calle 127,Calle80,Suba,7,49,3,3,0
+Portal 80,Shaio,Calle80,Suba,8,52,3,3,0
+Portal 80,Puentelargo,Calle80,Suba,7,48,3,4,0
+Portal 80,Portal Américas,Calle80,Americas,9,58,3,3,0
+Portal 80,Banderas,Calle80,Americas,8,53,3,4,0
+Portal 80,Marsella,Calle80,Americas,7,49,3,5,0
+Portal 80,Av. Jiménez,Calle80,Americas,8,50,3,5,0
+Portal 80,Biblioteca Tintal,Calle80,Americas,9,57,3,2,0
+Minuto de Dios,Granja-Carrera 77,Calle80,Calle80,1,4,0,1,1
+Minuto de Dios,Carrera 90,Calle80,Calle80,1,4,0,1,1
+Minuto de Dios,Portal Suba,Calle80,Suba,7,51,3,5,0
+Minuto de Dios,Suba-Calle 95,Calle80,Suba,6,46,3,3,0
+Minuto de Dios,Niza-Calle 127,Calle80,Suba,5,42,3,2,0
+Minuto de Dios,Shaio,Calle80,Suba,6,45,3,2,0
+Minuto de Dios,Puentelargo,Calle80,Suba,5,41,3,3,0
+Minuto de Dios,Portal Américas,Calle80,Americas,7,51,3,4,0
+Minuto de Dios,Banderas,Calle80,Americas,6,46,3,3,0
+Minuto de Dios,Marsella,Calle80,Americas,5,42,3,4,0
+Minuto de Dios,Av. Jiménez,Calle80,Americas,6,43,3,4,0
+Minuto de Dios,Biblioteca Tintal,Calle80,Americas,7,50,3,3,0
+Granja-Carrera 77,Carrera 90,Calle80,Calle80,2,8,0,2,1
+Granja-Carrera 77,Portal Suba,Calle80,Suba,6,47,3,6,0
+Granja-Carrera 77,Suba-Calle 95,Calle80,Suba,5,42,3,4,0
+Granja-Carrera 77,Niza-Calle 127,Calle80,Suba,4,38,3,3,0
+Granja-Carrera 77,Shaio,Calle80,Suba,5,41,3,3,0
+Granja-Carrera 77,Puentelargo,Calle80,Suba,4,37,3,2,0
+Granja-Carrera 77,Portal Américas,Calle80,Americas,6,47,3,5,0
+Granja-Carrera 77,Banderas,Calle80,Americas,5,42,3,4,0
+Granja-Carrera 77,Marsella,Calle80,Americas,4,38,3,3,0
+Granja-Carrera 77,Av. Jiménez,Calle80,Americas,5,39,3,3,0
+Granja-Carrera 77,Biblioteca Tintal,Calle80,Americas,6,46,3,4,0
+Carrera 90,Portal Suba,Calle80,Suba,8,55,3,4,0
+Carrera 90,Suba-Calle 95,Calle80,Suba,7,50,3,4,0
+Carrera 90,Niza-Calle 127,Calle80,Suba,6,46,3,3,0
+Carrera 90,Shaio,Calle80,Suba,7,49,3,3,0
+Carrera 90,Puentelargo,Calle80,Suba,6,45,3,4,0
+Carrera 90,Portal Américas,Calle80,Americas,8,55,3,3,0
+Carrera 90,Banderas,Calle80,Americas,7,50,3,4,0
+Carrera 90,Marsella,Calle80,Americas,6,46,3,5,0
+Carrera 90,Av. Jiménez,Calle80,Americas,7,47,3,5,0
+Carrera 90,Biblioteca Tintal,Calle80,Americas,8,54,3,2,0
+Portal Suba,Suba-Calle 95,Suba,Suba,1,5,0,2,1
+Portal Suba,Niza-Calle 127,Suba,Suba,2,9,0,3,1
+Portal Suba,Shaio,Suba,Suba,3,12,0,3,1
+Portal Suba,Puentelargo,Suba,Suba,4,16,0,4,1
+Portal Suba,Portal Américas,Suba,Americas,9,54,2,7,0
+Portal Suba,Banderas,Suba,Americas,8,49,2,8,0
+Portal Suba,Marsella,Suba,Americas,7,45,2,9,0
+Portal Suba,Av. Jiménez,Suba,Americas,7,42,2,9,0
+Portal Suba,Biblioteca Tintal,Suba,Americas,9,53,2,6,0
+Suba-Calle 95,Niza-Calle 127,Suba,Suba,1,4,0,1,1
+Suba-Calle 95,Shaio,Suba,Suba,2,7,0,1,1
+Suba-Calle 95,Puentelargo,Suba,Suba,3,11,0,2,1
+Suba-Calle 95,Portal Américas,Suba,Americas,8,49,2,7,0
+Suba-Calle 95,Banderas,Suba,Americas,7,44,2,6,0
+Suba-Calle 95,Marsella,Suba,Americas,6,40,2,7,0
+Suba-Calle 95,Av. Jiménez,Suba,Americas,6,37,2,7,0
+Suba-Calle 95,Biblioteca Tintal,Suba,Americas,8,48,2,6,0
+Niza-Calle 127,Shaio,Suba,Suba,1,3,0,0,1
+Niza-Calle 127,Puentelargo,Suba,Suba,2,7,0,1,1
+Niza-Calle 127,Portal Américas,Suba,Americas,7,45,2,6,0
+Niza-Calle 127,Banderas,Suba,Americas,6,40,2,5,0
+Niza-Calle 127,Marsella,Suba,Americas,5,36,2,6,0
+Niza-Calle 127,Av. Jiménez,Suba,Americas,5,33,2,6,0
+Niza-Calle 127,Biblioteca Tintal,Suba,Americas,7,44,2,5,0
+Shaio,Puentelargo,Suba,Suba,1,4,0,1,1
+Shaio,Portal Américas,Suba,Americas,8,48,2,6,0
+Shaio,Banderas,Suba,Americas,7,43,2,5,0
+Shaio,Marsella,Suba,Americas,6,39,2,6,0
+Shaio,Av. Jiménez,Suba,Americas,6,36,2,6,0
+Shaio,Biblioteca Tintal,Suba,Americas,8,47,2,5,0
+Puentelargo,Portal Américas,Suba,Americas,7,44,2,7,0
+Puentelargo,Banderas,Suba,Americas,6,39,2,6,0
+Puentelargo,Marsella,Suba,Americas,5,35,2,5,0
+Puentelargo,Av. Jiménez,Suba,Americas,5,32,2,5,0
+Puentelargo,Biblioteca Tintal,Suba,Americas,7,43,2,6,0
+Portal Américas,Banderas,Americas,Americas,1,5,0,1,1
+Portal Américas,Marsella,Americas,Americas,2,9,0,2,1
+Portal Américas,Av. Jiménez,Americas,Americas,4,28,2,4,1
+Portal Américas,Biblioteca Tintal,Americas,Americas,2,9,0,1,1
+Banderas,Marsella,Americas,Americas,1,4,0,1,1
+Banderas,Av. Jiménez,Americas,Americas,3,23,2,3,1
+Banderas,Biblioteca Tintal,Americas,Americas,1,4,0,2,1
+Marsella,Av. Jiménez,Americas,Americas,2,19,2,2,1
+Marsella,Biblioteca Tintal,Americas,Americas,2,8,0,3,1
+Av. Jiménez,Biblioteca Tintal,Americas,Americas,4,27,2,3,1

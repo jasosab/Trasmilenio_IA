@@ -1,0 +1,22 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# PDFs (se entregan por separado)
+*.pdf
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
